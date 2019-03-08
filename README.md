@@ -802,19 +802,19 @@ PS: 可以的话来我的博客看看也不错哦😏 本文同步于我的博�
 
 > 你的云盘智能助手
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 云盘万能钥匙 / anlllmnpjodopgbkbpnghnjlelnogfjc)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/云盘万能钥匙/anlllmnpjodopgbkbpnghnjlelnogfjc)
 
 ### 取字 - 快速识别, 一秒取字
 
 > 快速准确识别图片上的文字, 方便文字复制编辑
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 取字 - 快速识别一秒取字 / jmonhcfndjifnfldnaknlpgpfjlgpiig)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/取字-快速识别一秒取字/jmonhcfndjifnfldnaknlpgpfjlgpiig)
 
 ### 哔哩哔哩助手：bilibili.com 综合辅助扩展
 
 > 哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 哔哩哔哩助手：bilibilicom - 综合辅助扩展 / kpbnombpnpcffllnianjibmpadjolanh)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/哔哩哔哩助手：bilibilicom-综合辅助扩展/kpbnombpnpcffllnianjibmpadjolanh)
 
 ### 图片助手 (ImageAssistant) 图片批量下载器
 
@@ -826,7 +826,7 @@ PS: 可以的话来我的博客看看也不错哦😏 本文同步于我的博�
 
 > 直接识图搜索图片，或者截取网页部分进行搜索。
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 宅熊识图 / oalbiojgmmpffapglhnkaboeohdodmfg)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/宅熊识图/oalbiojgmmpffapglhnkaboeohdodmfg)
 
 ### 彩云小译
 
@@ -838,13 +838,13 @@ PS: 可以的话来我的博客看看也不错哦😏 本文同步于我的博�
 
 > 查看微博图片的 po 主
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 微博图片反查 / egbnikffkpbahjabjhgblnfgbcnckjop)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/微博图片反查/egbnikffkpbahjabjhgblnfgbcnckjop)
 
 ### 截图大师
 
 > 网页截图，自定义选区截图，编辑并将它们保存为 PDF，JPEG，PNG；上传，打印，浏览，复制到剪贴板以及进一步编辑
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 截图大师 / npfblpbfihoijccjhckkdegdhgkbiaii)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/截图大师/npfblpbfihoijccjhckkdegdhgkbiaii)
 
 ### 扩展管理器（Extension Manager）
 
@@ -856,7 +856,7 @@ PS: 可以的话来我的博客看看也不错哦😏 本文同步于我的博�
 
 > 为设计师、程序员、产品经理每日发现优质内容。
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 掘金 / lecdifefmmfjnjjinhaennhdlmcaeeeb)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/掘金/lecdifefmmfjnjjinhaennhdlmcaeeeb)
 
 ### 收趣
 
@@ -868,7 +868,7 @@ PS: 可以的话来我的博客看看也不错哦😏 本文同步于我的博�
 
 > 一键摘录, 永久保存, 轻松构建自己的在线灵感库和图书馆
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 方片收集 / bicdefpoleoohkhgcbbhambpghigfeid)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/方片收集/bicdefpoleoohkhgcbbhambpghigfeid)
 
 ### 更好用的优酷播放器 - YAPfY
 
@@ -881,7 +881,7 @@ PS: 可以的话来我的博客看看也不错哦😏 本文同步于我的博�
 
 > 网页媒体嗅探工具
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 猫抓 / jfedfbgedapdagkghmgibemcoggfppbb)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/猫抓/jfedfbgedapdagkghmgibemcoggfppbb)
 
 ### 番茄土豆
 
@@ -899,22 +899,22 @@ PS: 可以的话来我的博客看看也不错哦😏 本文同步于我的博�
 
 > 这个扩展程序可以让你方便地从任意网站上采集喜欢的图片、视频或者网页截图到花瓣网 (huaban.com) 上。这是花瓣网官方 (huaban.com) 提供的扩展。
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 花瓣网页收藏工具 / imamemhokkdleoelohnmkimbmpfglcil)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/花瓣网页收藏工具/imamemhokkdleoelohnmkimbmpfglcil)
 
 ### 草料二维码
 
 > 点击生成当前网址二维码
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 草料二维码 / moombeodfomdpjnpocobemoiaemednkg)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/草料二维码/moombeodfomdpjnpocobemoiaemednkg)
 
 ### 达达划词翻译
 
 > 划词翻译、生词本、吐司弹词
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 达达划词翻译 / cajhcjfcodjoalmhjekljnfkgjlkeajl)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/达达划词翻译/cajhcjfcodjoalmhjekljnfkgjlkeajl)
 
 ### 魔变
 
 > 魔变可以一键切换为手机、平板电脑、PC 浏览器的 UserAgent，方便开发者在 PC 上测试网站，以解决网站的兼容性问题。
 
-[Chromes 商店地址](https://chrome.google.com/webstore/detail / 魔变 / lbjoofkekcblhllflepcpmkbekibbjcd)
+[Chromes 商店地址](https://chrome.google.com/webstore/detail/魔变/lbjoofkekcblhllflepcpmkbekibbjcd)
